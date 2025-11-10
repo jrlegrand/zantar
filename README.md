@@ -1,6 +1,12 @@
 # zantar
 An old QBasic video game I made in 2004.
 
+![zantar1.png](zantar1.png)
+
+![zantar2.png](zantar2.png)
+
+![zantar3.png](zantar3.png)
+
 AMMO.BMP
 ![AMMO.BMP](AMMO.BMP)
 
